@@ -1,0 +1,673 @@
+07/15/20-07-15 11:14:15 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:14:15 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /artist/1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:03 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:03 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /artist/1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:04 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=15&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:04 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=30&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:05 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=45&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:05 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=60&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:06 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=75&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:06 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=90&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:15:07 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /data/user/getsongs?start=105&size=15&ting_uid=1557 HTTP/1.1" 200 None
+07/15/20-07-15 11:15:07 mongo_pool.py [line:17] INFO:插入了新的数据:{'author_info': {'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, 'song_list': [{'song_name': '雅俗共赏', 'song_id': '264972770', 'song_href': 'http://music.taihe.com/song/264972770', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '素颜', 'song_id': '5837564', 'song_href': 'http://music.taihe.com/song/5837564', 'song_mv_id': '5837564', 'song_mv_href': 'http://music.taihe.com/mv/5837564', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '有何不可', 'song_id': '283058', 'song_href': 'http://music.taihe.com/song/283058', 'song_mv_id': '283058', 'song_mv_href': 'http://music.taihe.com/mv/283058', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '如约而至', 'song_id': '596481670', 'song_href': 'http://music.taihe.com/song/596481670', 'song_mv_id': '596481670', 'song_mv_href': 'http://music.taihe.com/mv/596481670', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '明智之举', 'song_id': '597854185', 'song_href': 'http://music.taihe.com/song/597854185', 'song_mv_id': '597854185', 'song_mv_href': 'http://music.taihe.com/mv/597854185', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '庐州月', 'song_id': '273993', 'song_href': 'http://music.taihe.com/song/273993', 'song_mv_id': '273993', 'song_mv_href': 'http://music.taihe.com/mv/273993', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '如果当时', 'song_id': '252352', 'song_href': 'http://music.taihe.com/song/252352', 'song_mv_id': '252352', 'song_mv_href': 'http://music.taihe.com/mv/252352', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '清明雨上', 'song_id': '235725', 'song_href': 'http://music.taihe.com/song/235725', 'song_mv_id': '235725', 'song_mv_href': 'http://music.taihe.com/mv/235725', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '惊鸿一面', 'song_id': '121911466', 'song_href': 'http://music.taihe.com/song/121911466', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '千百度', 'song_id': '2498024', 'song_href': 'http://music.taihe.com/song/2498024', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '半城烟沙', 'song_id': '15912243', 'song_href': 'http://music.taihe.com/song/15912243', 'song_mv_id': '15912243', 'song_mv_href': 'http://music.taihe.com/mv/15912243', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '微博控', 'song_id': '2498009', 'song_href': 'http://music.taihe.com/song/2498009', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '灰色头像', 'song_id': '271352', 'song_href': 'http://music.taihe.com/song/271352', 'song_mv_id': '271352', 'song_mv_href': 'http://music.taihe.com/mv/271352', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '断桥残雪', 'song_id': '18428222', 'song_href': 'http://music.taihe.com/song/18428222', 'song_mv_id': '18428222', 'song_mv_href': 'http://music.taihe.com/mv/18428222', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '城府', 'song_id': '267878', 'song_href': 'http://music.taihe.com/song/267878', 'song_mv_id': '267878', 'song_mv_href': 'http://music.taihe.com/mv/267878', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '雨幕 (新天龙八部端游主题曲）', 'song_id': '670323274', 'song_href': 'http://music.taihe.com/song/670323274', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '大千世界', 'song_id': '594967698', 'song_href': 'http://music.taihe.com/song/594967698', 'song_mv_id': '594967698', 'song_mv_href': 'http://music.taihe.com/mv/594967698', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '叹服', 'song_id': '730117', 'song_href': 'http://music.taihe.com/song/730117', 'song_mv_id': '730117', 'song_mv_href': 'http://music.taihe.com/mv/730117', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '想象之中', 'song_id': '2498001', 'song_href': 'http://music.taihe.com/song/2498001', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '燕归巢', 'song_id': '262235069', 'song_href': 'http://music.taihe.com/song/262235069', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '天龙八部之宿敌', 'song_id': '10405795', 'song_href': 'http://music.taihe.com/song/10405795', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '幻听', 'song_id': '14941552', 'song_href': 'http://music.taihe.com/song/14941552', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '拆东墙', 'song_id': '2498005', 'song_href': 'http://music.taihe.com/song/2498005', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '你若成风', 'song_id': '123640444', 'song_href': 'http://music.taihe.com/song/123640444', 'song_mv_id': '123640444', 'song_mv_href': 'http://music.taihe.com/mv/123640444', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '多余的解释', 'song_id': '286087', 'song_href': 'http://music.taihe.com/song/286087', 'song_mv_id': '286087', 'song_mv_href': 'http://music.taihe.com/mv/286087', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '河山大好', 'song_id': '2498003', 'song_href': 'http://music.taihe.com/song/2498003', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '星座书上', 'song_id': '268885', 'song_href': 'http://music.taihe.com/song/268885', 'song_mv_id': '268885', 'song_mv_href': 'http://music.taihe.com/mv/268885', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '山水之间', 'song_id': '121377633', 'song_href': 'http://music.taihe.com/song/121377633', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '胡萝卜须', 'song_id': '14888019', 'song_href': 'http://music.taihe.com/song/14888019', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '认错', 'song_id': '305927', 'song_href': 'http://music.taihe.com/song/305927', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '伴虎', 'song_id': '14941569', 'song_href': 'http://music.taihe.com/song/14941569', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '在那不遥远的地方', 'song_id': '730341', 'song_href': 'http://music.taihe.com/song/730341', 'song_mv_id': '730341', 'song_mv_href': 'http://music.taihe.com/mv/730341', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '《绝代风华》（天下3十周年主题曲）', 'song_id': '608296304', 'song_href': 'http://music.taihe.com/song/608296304', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '毁人不倦', 'song_id': '2498013', 'song_href': 'http://music.taihe.com/song/2498013', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '白马非马', 'song_id': '730280', 'song_href': 'http://music.taihe.com/song/730280', 'song_mv_id': '730280', 'song_mv_href': 'http://music.taihe.com/mv/730280', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '书香年华', 'song_id': '262837429', 'song_href': 'http://music.taihe.com/song/262837429', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '千古', 'song_id': '246729410', 'song_href': 'http://music.taihe.com/song/246729410', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '降温', 'song_id': '2498017', 'song_href': 'http://music.taihe.com/song/2498017', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '医生', 'song_id': '2498007', 'song_href': 'http://music.taihe.com/song/2498007', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '双人旁', 'song_id': '2498015', 'song_href': 'http://music.taihe.com/song/2498015', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '不煽情', 'song_id': '730219', 'song_href': 'http://music.taihe.com/song/730219', 'song_mv_id': '730219', 'song_mv_href': 'http://music.taihe.com/mv/730219', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '敬酒不吃', 'song_id': '2498019', 'song_href': 'http://music.taihe.com/song/2498019', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '单人旅途', 'song_id': '207652', 'song_href': 'http://music.taihe.com/song/207652', 'song_mv_id': '207652', 'song_mv_href': 'http://music.taihe.com/mv/207652', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '最佳歌手', 'song_id': '265654757', 'song_href': 'http://music.taihe.com/song/265654757', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '我们的恋爱是对生命的严重浪费', 'song_id': '237474', 'song_href': 'http://music.taihe.com/song/237474', 'song_mv_id': '237474', 'song_mv_href': 'http://music.taihe.com/mv/237474', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '不语（电影《不速之客》主题曲）', 'song_id': '262881139', 'song_href': 'http://music.taihe.com/song/262881139', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '玫瑰花的葬礼', 'song_id': '23295707', 'song_href': 'http://music.taihe.com/song/23295707', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '平行宇宙', 'song_id': '266969151', 'song_href': 'http://music.taihe.com/song/266969151', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '我无所谓', 'song_id': '215352', 'song_href': 'http://music.taihe.com/song/215352', 'song_mv_id': '215352', 'song_mv_href': 'http://music.taihe.com/mv/215352', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '坏孩子', 'song_id': '295413', 'song_href': 'http://music.taihe.com/song/295413', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '通关', 'song_id': '544466477', 'song_href': 'http://music.taihe.com/song/544466477', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '我乐意', 'song_id': '589758719', 'song_href': 'http://music.taihe.com/song/589758719', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '内线', 'song_id': '271446', 'song_href': 'http://music.taihe.com/song/271446', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '摄影艺术', 'song_id': '266219456', 'song_href': 'http://music.taihe.com/song/266219456', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '深夜书店', 'song_id': '537880242', 'song_href': 'http://music.taihe.com/song/537880242', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '蝴蝶的时间', 'song_id': '566699464', 'song_href': 'http://music.taihe.com/song/566699464', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '今年勇', 'song_id': '293539100', 'song_href': 'http://music.taihe.com/song/293539100', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '装糊涂', 'song_id': '14941589', 'song_href': 'http://music.taihe.com/song/14941589', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '奇谈', 'song_id': '266969127', 'song_href': 'http://music.taihe.com/song/266969127', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '弹指一挥间', 'song_id': '122611639', 'song_href': 'http://music.taihe.com/song/122611639', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '江湖', 'song_id': '269431488', 'song_href': 'http://music.taihe.com/song/269431488', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '浪', 'song_id': '600618037', 'song_href': 'http://music.taihe.com/song/600618037', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '老古董', 'song_id': '591406226', 'song_href': 'http://music.taihe.com/song/591406226', 'song_mv_id': '591406226', 'song_mv_href': 'http://music.taihe.com/mv/591406226', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '七夕', 'song_id': '121970847', 'song_href': 'http://music.taihe.com/song/121970847', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '对话老师', 'song_id': '14941559', 'song_href': 'http://music.taihe.com/song/14941559', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '全球变冷', 'song_id': '14941665', 'song_href': 'http://music.taihe.com/song/14941665', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '浅唱', 'song_id': '123639611', 'song_href': 'http://music.taihe.com/song/123639611', 'song_mv_id': '123639611', 'song_mv_href': 'http://music.taihe.com/mv/123639611', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '小烦恼没什么大不了', 'song_id': '43700685', 'song_href': 'http://music.taihe.com/song/43700685', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '柳成荫', 'song_id': '600618041', 'song_href': 'http://music.taihe.com/song/600618041', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '我想牵着你的手', 'song_id': '591470436', 'song_href': 'http://music.taihe.com/song/591470436', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '等到烟火清凉', 'song_id': '122791774', 'song_href': 'http://music.taihe.com/song/122791774', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '九月清晨', 'song_id': '600618036', 'song_href': 'http://music.taihe.com/song/600618036', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '早睡身体好', 'song_id': '266969175', 'song_href': 'http://music.taihe.com/song/266969175', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '爱情里的眼泪', 'song_id': '70241037', 'song_href': 'http://music.taihe.com/song/70241037', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '摆脱', 'song_id': '266969158', 'song_href': 'http://music.taihe.com/song/266969158', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '深夜书店', 'song_id': '542065294', 'song_href': 'http://music.taihe.com/song/542065294', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '违章动物', 'song_id': '70583710', 'song_href': 'http://music.taihe.com/song/70583710', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '幻胖', 'song_id': '266969141', 'song_href': 'http://music.taihe.com/song/266969141', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '有桃花', 'song_id': '122791828', 'song_href': 'http://music.taihe.com/song/122791828', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '梧桐灯', 'song_id': '122792313', 'song_href': 'http://music.taihe.com/song/122792313', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': 'Play with style', 'song_id': '14941618', 'song_href': 'http://music.taihe.com/song/14941618', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '亲情式的爱情', 'song_id': '14941680', 'song_href': 'http://music.taihe.com/song/14941680', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '隐隐约约', 'song_id': '122791872', 'song_href': 'http://music.taihe.com/song/122791872', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '心疼妳的过去', 'song_id': '14941644', 'song_href': 'http://music.taihe.com/song/14941644', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '闺蜜', 'song_id': '14941578', 'song_href': 'http://music.taihe.com/song/14941578', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '重复重复', 'song_id': '600618038', 'song_href': 'http://music.taihe.com/song/600618038', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '宇宙之大', 'song_id': '122792225', 'song_href': 'http://music.taihe.com/song/122792225', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '安琪', 'song_id': '591470327', 'song_href': 'http://music.taihe.com/song/591470327', 'song_mv_id': '591470327', 'song_mv_href': 'http://music.taihe.com/mv/591470327', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '飞驰于你（QQ飞车手游敦煌版本主题曲）', 'song_id': '603907206', 'song_href': 'http://music.taihe.com/song/603907206', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '七号公园', 'song_id': '123639480', 'song_href': 'http://music.taihe.com/song/123639480', 'song_mv_id': '123639480', 'song_mv_href': 'http://music.taihe.com/mv/123639480', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '天使', 'song_id': '591470374', 'song_href': 'http://music.taihe.com/song/591470374', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '安徒生不后悔', 'song_id': '123639533', 'song_href': 'http://music.taihe.com/song/123639533', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '尘世美', 'song_id': '591470334', 'song_href': 'http://music.taihe.com/song/591470334', 'song_mv_id': '591470334', 'song_mv_href': 'http://music.taihe.com/mv/591470334', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '艺术家们', 'song_id': '600618035', 'song_href': 'http://music.taihe.com/song/600618035', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '秋千坠', 'song_id': '123640456', 'song_href': 'http://music.taihe.com/song/123640456', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '我很喜欢', 'song_id': '591470409', 'song_href': 'http://music.taihe.com/song/591470409', 'song_mv_id': '591470409', 'song_mv_href': 'http://music.taihe.com/mv/591470409', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '看不见的风景', 'song_id': '23295713', 'song_href': 'http://music.taihe.com/song/23295713', 'song_mv_id': '23295713', 'song_mv_href': 'http://music.taihe.com/mv/23295713', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '如约而至', 'song_id': '659868869', 'song_href': 'http://music.taihe.com/song/659868869', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '粉色信笺', 'song_id': '591470355', 'song_href': 'http://music.taihe.com/song/591470355', 'song_mv_id': '591470355', 'song_mv_href': 'http://music.taihe.com/mv/591470355', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '散场电影', 'song_id': '123640470', 'song_href': 'http://music.taihe.com/song/123640470', 'song_mv_id': '123640470', 'song_mv_href': 'http://music.taihe.com/mv/123640470', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '我的Baby', 'song_id': '591470395', 'song_href': 'http://music.taihe.com/song/591470395', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '老古董', 'song_id': '659868866', 'song_href': 'http://music.taihe.com/song/659868866', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '飞驰于你（QQ飞车手游敦煌版本主题曲）（伴奏）', 'song_id': '603907207', 'song_href': 'http://music.taihe.com/song/603907207', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '明智之举', 'song_id': '659868868', 'song_href': 'http://music.taihe.com/song/659868868', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '大千世界', 'song_id': '659868867', 'song_href': 'http://music.taihe.com/song/659868867', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}, {'song_name': '温泉', 'song_id': '676996131', 'song_href': 'http://music.taihe.com/song/676996131', 'author_name': '许嵩', 'author_tinguid': '1557', 'author_url': 'http://music.taihe.com/artist/1557'}], '_id': ObjectId('5f0e74bb13ef9ba0216febf0')}
+07/15/20-07-15 11:18:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:06 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/264972770 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:07 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=264972770&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:07 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:07 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:07 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/5837564 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:07 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:09 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=5837564&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:09 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:09 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/5837564 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:09 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:10 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880335 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:10 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:10 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:10 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/283058 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:10 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:11 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=283058&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:11 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:11 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/283058 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:11 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:12 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880284 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:12 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:12 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:17 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/596481670 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:17 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:18 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=596481670&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:18 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:19 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/596481670 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:19 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=596075465 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:19 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:24 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/597854185 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:24 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:25 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=597854185&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:25 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:26 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/597854185 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:26 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=597840713 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:26 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:29 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/273993 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:31 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=273993&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:31 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:31 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/273993 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:31 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:32 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880310 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:32 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:35 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/252352 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:35 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:37 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=252352&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:37 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:37 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/252352 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:37 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:38 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880281 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:38 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:38 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:42 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/235725 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:44 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=235725&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:44 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:44 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/235725 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:44 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:45 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880275 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:45 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:45 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:49 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/121911466 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:49 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:50 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=121911466&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:50 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:50 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:18:55 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498024 HTTP/1.1" 200 None
+07/15/20-07-15 11:18:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:18:56 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498024&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:18:56 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:18:56 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:01 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/15912243 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:01 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:03 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=15912243&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:03 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:03 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/15912243 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:03 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:04 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880332 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:04 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:04 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498009 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:05 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498009&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:05 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:09 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/271352 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:09 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:10 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=271352&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:10 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:10 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/271352 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:10 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:11 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880307 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:11 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:11 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:16 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/18428222 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:16 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:17 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=18428222&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:17 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:18 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/18428222 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:18 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:18 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880249 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:18 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:18 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:25 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/267878 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:25 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:26 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=267878&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:27 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/267878 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:27 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880259 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:27 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:27 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/670323274 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:28 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=670323274&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:28 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:28 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:32 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/594967698 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:33 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=594967698&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:34 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/594967698 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:34 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:34 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=593836525 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:34 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:34 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:39 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/730117 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:39 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:40 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=730117&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:40 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:41 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/730117 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:41 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880287 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:41 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:46 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498001 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:46 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:47 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498001&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:47 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:47 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:19:52 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/262235069 HTTP/1.1" 200 None
+07/15/20-07-15 11:19:52 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:19:53 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=262235069&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:19:53 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:19:53 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:02 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/10405795 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:02 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:03 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=10405795&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:03 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:03 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:08 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941552 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:08 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:09 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941552&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:09 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:09 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:18 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498005 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:18 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:19 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498005&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:19 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:19 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/123640444 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:20 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=123640444&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:20 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:21 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/123640444 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:21 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:21 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526173 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:21 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:21 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:25 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/286087 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:25 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:26 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=286087&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:27 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/286087 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:27 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880262 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:27 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:32 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498003 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:33 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498003&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:33 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:41 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/268885 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:42 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=268885&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:42 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:43 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/268885 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:43 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880278 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:43 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:48 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/121377633 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:48 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:49 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=121377633&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:49 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:49 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:53 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14888019 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:53 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:55 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14888019&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:55 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:20:55 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/305927 HTTP/1.1" 200 None
+07/15/20-07-15 11:20:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:20:56 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=305927&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:20:56 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:20:56 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:00 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941569 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:00 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:02 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941569&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:02 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:02 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:06 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/730341 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:07 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:08 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=730341&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:08 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:08 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/730341 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:08 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:09 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880319 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:09 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:09 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:13 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/608296304 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:15 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=608296304&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:15 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:15 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:19 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498013 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:20 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498013&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:20 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:20 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:28 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/730280 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:28 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:30 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=730280&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:30 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/730280 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:30 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880313 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:30 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:35 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/262837429 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:35 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:36 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=262837429&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:36 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:36 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:41 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/246729410 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:42 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=246729410&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:42 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:42 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:51 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498017 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:51 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:52 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498017&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:52 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:52 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:21:57 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498007 HTTP/1.1" 200 None
+07/15/20-07-15 11:21:57 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:21:58 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498007&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:21:58 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:21:58 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:03 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498015 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:03 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:04 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498015&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:04 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:12 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/730219 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:12 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:13 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=730219&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:14 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/730219 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:14 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:14 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526266 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:14 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:14 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:19 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/2498019 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:20 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=2498019&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:20 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:20 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:25 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/207652 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:25 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:26 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=207652&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:27 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/207652 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:27 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880316 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:27 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:27 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/265654757 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:28 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=265654757&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:28 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:28 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:33 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/237474 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:35 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=237474&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:35 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:35 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/237474 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:35 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:35 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526269 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:35 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:35 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:40 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/262881139 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:40 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:41 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=262881139&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:41 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:41 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/23295707 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:43 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=23295707&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:43 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:47 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/266969151 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:47 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:48 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=266969151&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:48 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:48 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:52 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/215352 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:52 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:53 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=215352&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:22:53 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:54 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/215352 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:54 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:22:54 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526263 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:54 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:22:54 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:22:59 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/295413 HTTP/1.1" 200 None
+07/15/20-07-15 11:22:59 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:00 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=295413&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:00 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:00 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:05 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/544466477 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:06 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=544466477&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:06 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:06 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/589758719 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:07 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=589758719&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:07 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:07 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:12 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/271446 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:12 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:13 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=271446&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:13 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:17 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/266219456 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:17 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:19 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=266219456&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:19 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:23 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/537880242 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:23 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:24 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=537880242&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:24 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:24 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:29 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/566699464 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:29 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:30 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=566699464&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:30 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:35 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/293539100 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:35 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:36 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=293539100&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:36 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:36 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:40 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941589 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:40 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:41 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941589&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:42 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:42 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:46 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/266969127 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:46 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:47 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=266969127&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:47 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:47 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:52 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/122611639 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:52 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:53 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=122611639&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:53 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:53 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:23:57 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/269431488 HTTP/1.1" 200 None
+07/15/20-07-15 11:23:57 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:23:59 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=269431488&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:23:59 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:23:59 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:03 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/600618037 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:03 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:05 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=600618037&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:05 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:10 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591406226 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:10 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:11 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591406226&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:11 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:12 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/591406226 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:12 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:12 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=591487883 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:12 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:12 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:17 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/121970847 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:17 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:18 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=121970847&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:18 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:18 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:22 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941559 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:22 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:24 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941559&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:24 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:24 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:28 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941665 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:28 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:29 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941665&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:29 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:29 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:30 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/123639611 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:31 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=123639611&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:31 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:31 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/123639611 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:31 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:32 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880256 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:32 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:36 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/43700685 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:36 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:37 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=43700685&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:37 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:37 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:42 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/600618041 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:42 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:43 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=600618041&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:43 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:48 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470436 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:48 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:49 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470436&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:49 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:49 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:53 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/122791774 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:54 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:24:55 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=122791774&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:24:55 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:24:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:24:59 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/600618036 HTTP/1.1" 200 None
+07/15/20-07-15 11:24:59 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:00 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=600618036&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:00 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:00 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:05 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/266969175 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:06 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=266969175&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:06 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:15 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/70241037 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:15 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:16 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=70241037&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:16 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:16 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:21 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/266969158 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:21 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:22 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=266969158&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:22 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:22 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:26 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/542065294 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:27 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:28 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=542065294&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:28 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:28 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:32 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/70583710 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:33 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=70583710&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:33 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:38 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/266969141 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:38 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:39 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=266969141&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:39 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:39 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:44 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/122791828 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:44 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:45 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=122791828&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:45 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:45 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:49 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/122792313 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:50 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:51 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=122792313&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:51 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:51 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:25:55 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941618 HTTP/1.1" 200 None
+07/15/20-07-15 11:25:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:25:56 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941618&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:25:56 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:25:56 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:01 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941680 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:01 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:02 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941680&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:02 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:02 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:07 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/122791872 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:07 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:08 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=122791872&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:08 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:08 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:13 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941644 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:14 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941644&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:14 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:14 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:23 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/14941578 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:23 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:24 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=14941578&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:24 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:24 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:28 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/600618038 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:28 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:30 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=600618038&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:30 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:30 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:34 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/122792225 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:34 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:36 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=122792225&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:36 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:36 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:40 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470327 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:41 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:42 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470327&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:42 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:42 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/591470327 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:42 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:43 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526164 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:43 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:47 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/603907206 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:47 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:48 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=603907206&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:48 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:48 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:53 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/123639480 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:53 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:54 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=123639480&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:26:54 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:26:55 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/123639480 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:26:55 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526257 HTTP/1.1" 200 None
+07/15/20-07-15 11:26:55 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:26:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:00 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470374 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:00 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:01 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470374&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:01 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:01 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:06 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/123639533 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:06 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:07 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=123639533&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:07 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:07 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:13 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470334 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:14 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470334&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:14 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:14 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/591470334 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:15 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:15 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=540880253 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:15 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:15 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:19 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/600618035 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:19 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:21 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=600618035&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:21 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:21 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:25 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/123640456 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:25 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:26 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=123640456&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:26 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:32 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470409 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:33 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470409&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:33 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/591470409 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:34 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526167 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:34 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:34 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:38 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/23295713 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:38 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:40 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=23295713&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:40 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:40 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/23295713 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:40 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:40 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526170 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:40 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:40 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:45 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/659868869 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:45 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:46 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=659868869&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:46 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:46 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:51 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470355 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:51 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:52 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470355&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:27:52 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:27:54 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/591470355 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:54 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:27:55 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526176 HTTP/1.1" 200 None
+07/15/20-07-15 11:27:55 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:27:55 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:04 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/123640470 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:04 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:05 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=123640470&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:05 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:13 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /mv/123640470 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:13 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.mv.playMV&mv_id=541526260 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:13 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:28:13 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:25 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/591470395 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:25 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:26 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=591470395&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:26 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:28:26 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:31 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/659868866 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:32 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:33 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=659868866&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:33 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:28:33 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:37 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/603907207 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:37 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:39 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=603907207&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:39 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:28:39 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:43 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/659868868 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:43 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:44 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=659868868&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:44 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:28:44 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:49 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/659868867 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:49 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:50 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=659868867&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:50 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据
+07/15/20-07-15 11:28:50 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): music.taihe.com:80
+07/15/20-07-15 11:28:54 connectionpool.py [line:442] DEBUG:http://music.taihe.com:80 "GET /song/676996131 HTTP/1.1" 200 None
+07/15/20-07-15 11:28:54 connectionpool.py [line:230] DEBUG:Starting new HTTP connection (1): musicapi.taihe.com:80
+07/15/20-07-15 11:28:56 connectionpool.py [line:442] DEBUG:http://musicapi.taihe.com:80 "GET /v1/restserver/ting?method=baidu.ting.song.playAAC&format=jsonp&songid=676996131&from=web HTTP/1.1" 200 None
+07/15/20-07-15 11:28:56 mongo_pool.py [line:21] INFO:更新了->{'author_info.author_tinguid': '1557'}<-的数据

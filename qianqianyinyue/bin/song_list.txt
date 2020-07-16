@@ -1,0 +1,1974 @@
+{
+  "song_name": "演员",
+  "song_id": "242078437",
+  "song_href": "http://music.taihe.com/song/242078437",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589078_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR47F1_nqiAfD0hAD_MGBybIdk026.mp3?xcode=aefbd591c37efa806a6c2b65cae142a973974a6",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/bed1fcb36f51259eefab8ba6d95f524f/672457403/672457403.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "你还要我怎样",
+  "song_id": "100575177",
+  "song_href": "http://music.taihe.com/song/100575177",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986648_128_4_1_0_sdk-cpm/cn/0208/M00/E5/61/ChR46119DrGAW4d4AEvErRDwLyg867.mp3?xcode=6b725779223e2de86a6bbb3ac7a1959393d994b",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/0a6ef3d9a86dd4f1aa782a114d9f288e/672463341/672463341.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "花儿和少年",
+  "song_id": "267709069",
+  "song_href": "http://music.taihe.com/song/267709069",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589085_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nrGAc3eHAEAxUFuY7P0782.mp3?xcode=69294b64dacf8cfc6a6c18a48f52f76ec5848c5",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/ea1b87e9112aaa7bfbba86b8bc954adb/667891917/667891917.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "Stay Here",
+  "song_id": "267709057",
+  "song_href": "http://music.taihe.com/song/267709057",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589084_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nsqANXqtAEmaLKq3eJ4614.mp3?xcode=8da1d022e86d8fe96a6b8fcd626923c387995b4",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/1b1029b373a062dc2ebb447de0de038c/672457406/672457406.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "方圆几里",
+  "song_id": "33341939",
+  "song_href": "http://music.taihe.com/song/33341939",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986654_128_4_1_0_sdk-cpm/cn/0210/M00/AD/87/ChR461176SiALaziAEI-6IZBVVI242.mp3?xcode=87ec767bac8569416a6bdc5cf6ffd66148838eb",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/c4f85df163fce920ec05d4dd6605d920/672463347/672463347.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "哑巴",
+  "song_id": "591310911",
+  "song_href": "http://music.taihe.com/song/591310911",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10044428630_128_4_1_0_sdk-cpm/cn/0209/M00/BF/55/ChR46118wziAZQHEAD_ALJ4q_cQ273.mp3?xcode=ce2fc5cc949363716a6be7646842897de05985e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/0a1142a8d1a297155bbca2424019b306/611681099/611681099.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "最好",
+  "song_id": "601422013",
+  "song_href": "http://music.taihe.com/song/601422013",
+  "song_mv_id": "601422013",
+  "song_mv_href": "http://music.taihe.com/mv/601422013",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10046455529_128_4_1_0_sdk-cpm/cn/0210/M00/6B/56/ChR47FtYwkiAfm12AD5kasdmT1I496.mp3?xcode=c5ba818ee6a6d53c6a6c4661751b0e461513356",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/e845b2faab471e7c5599c9562d13744f/611681098/611681098.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/8b9ead10fc9ea9fabeadde079bd753c6/611898119/611898119.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/347e7ac509ab12b61ca0b15f77e00841/611898116/611898116.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/d39aebffc200665bf669fc9dad85c627/611898109/611898109.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/e6676f5eebc52591cd6d9b632f4c5535/611898112/611898112.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "初学者",
+  "song_id": "265634484",
+  "song_href": "http://music.taihe.com/song/265634484",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589088_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nqKAOgxLAERf2Ag_xDQ853.mp3?xcode=c2d65943aeab48f16a6c10c2284b2b6e1e24432",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f52d917d0fb2f7a81ab2d4df7662c246/670323252/670323252.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "刚刚好",
+  "song_id": "266259728",
+  "song_href": "http://music.taihe.com/song/266259728",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589079_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nqaAWbUTAD0rb46MjmI844.mp3?xcode=4851c7995cf24dcd6a6be7178aa62174829654d",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/34de9db8fdbdad7e3e3572969a60c12b/667891910/667891910.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我好像在哪见过你",
+  "song_id": "266942077",
+  "song_href": "http://music.taihe.com/song/266942077",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589080_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR47F1_nrKAVx8KAEQsEF_UXGE715.mp3?xcode=bfaa53d24397378b6a6c206f5b019d3e0ff68d7",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f63a5782603c444ad7c66b2d67bd534f/667891911/667891911.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "认真的雪",
+  "song_id": "7356091",
+  "song_href": "http://music.taihe.com/song/7356091",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981991_128_4_1_0_sdk-cpm/cn/0207/M00/7B/93/ChR461z87ZCAcB1eAD_XaNRR9N4986.mp3?xcode=7e532d6216e08a226a6bb87322bd51326437377",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4f73f5fe79cf9dbce6b5d78d3bf038a0/660150847/660150847.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "暧昧",
+  "song_id": "540175998",
+  "song_href": "http://music.taihe.com/song/540175998",
+  "song_mv_id": "540175998",
+  "song_mv_href": "http://music.taihe.com/mv/540175998",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "暧昧",
+  "song_publish_date": "2017-04-11",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038890156_128_4_1_0_sdk-cpm/cn/0207/M00/13/60/ChR461nyhU2APCxoAEw8u1SSnWs407.mp3?xcode=e0c564749ceb2a9f6a6c36871f589d51f4b7e3e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/ef59bb61958f71f95cf5d16bba853cb4/613318898/613318898.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/a715751212bdf5baf447f5b432588213/607994676/607994676.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/ba3251c81675f67224032706b62a3da2/607994675/607994675.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/3813c86fb2373c7864d10440dca6896d/607994673/607994673.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/cb26664d2ed944bc1541250bb1747a70/607994674/607994674.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "绅士",
+  "song_id": "241838066",
+  "song_href": "http://music.taihe.com/song/241838066",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589081_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nreAfGUWAEcPMXBGGuA466.mp3?xcode=f04aa6b6c15a0ffd6a6c3577d0103ce0ad93780",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/cef5a4438ed6f55e4d2d8d0ddb5d27d6/667891913/667891913.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "下雨了",
+  "song_id": "242078465",
+  "song_href": "http://music.taihe.com/song/242078465",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589086_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR47F1_nrqAYLV4AEqKn1XVjxM034.mp3?xcode=c76f099242bb61026a6bfc71ebd34963f7bb873",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/3c65817e138bb6989b7a27b54f23ce3a/667891918/667891918.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "尘",
+  "song_id": "670310517",
+  "song_href": "http://music.taihe.com/song/670310517",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-10-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10052050224_128_4_1_0_sdk-cpm/cn/0209/M00/D1/D6/ChR4612fBfKAIxmwAETDbyjcp2A545.mp3?xcode=c02d9870cc19338d6a6c14ea3d04113801b6c52",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/20d88393cecfd39f7887a1cd7fd05856/670310591/670310591.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "狐狸",
+  "song_id": "568320992",
+  "song_href": "http://music.taihe.com/song/568320992",
+  "song_mv_id": "568320992",
+  "song_mv_href": "http://music.taihe.com/mv/568320992",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040595530_128_4_1_0_sdk-cpm/cn/0208/M00/26/D1/ChR461o7WqKAdR2pADlQprxUo0g450.mp3?xcode=d2cdf49f4d90b4c66a6c17d2a9ff0a3b7d00efa",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/e4976732073f17629a0fde9d12657ece/611681101/611681101.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/3ef0b19c9058921dcf3f75d8cdb19084/608000901/608000901.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/f9f64ed8778986ce8706cf2adb29bd67/608000900/608000900.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/5d556be11bc9aa3b19bb710bd31b92fc/608000898/608000898.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/e38109e21b8370cecf0f36968150b716/608000899/608000899.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "丑八怪",
+  "song_id": "87967607",
+  "song_href": "http://music.taihe.com/song/87967607",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986645_128_4_1_0_sdk-cpm/cn/0208/M00/E5/61/ChR46119DqeAJGANAD3PrR3qZCk162.mp3?xcode=d34a858a614d72866a6c0b88a3f365ac6624365",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/1d0069ad4b86af752d5c7b070dd79ba8/672463339/672463339.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "高尚",
+  "song_id": "666594521",
+  "song_href": "http://music.taihe.com/song/666594521",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396701_128_4_1_0_sdk-cpm/cn/0311/M00/5E/3A/ChAKC1141oaABCd7AE3MSZJp9q0486.mp3?xcode=0d8d681293baf65b6a6c3e25bc267811ddaa169",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/9fba19ad2381b7384c74ad747b4aaba5/666595414/666595414.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "火星人来过",
+  "song_id": "278860063",
+  "song_href": "http://music.taihe.com/song/278860063",
+  "song_mv_id": "278860063",
+  "song_mv_href": "http://music.taihe.com/mv/278860063",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2016-11-28",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038951362_128_4_1_0_sdk-cpm/cn/0207/M00/8C/38/ChR47F160mKAbzTwADT7G_s0X50277.mp3?xcode=f2c44929c4d591c56a6bcbb118ff9942fb90d3f",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/ed5225acf833564a28ccc105dd529014/278924740/278924740.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/5049b50d8e0f68d3efe81e9981c86800/610243454/610243454.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/d8fb5d3380619aedd457f973f4ef12aa/610243442/610243442.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/024c2129ddcc44e2e6cd7eb964615fc8/610243439/610243439.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/541c59e0e4d44011605e856dd70d005c/610243440/610243440.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "像风一样",
+  "song_id": "565030085",
+  "song_href": "http://music.taihe.com/song/565030085",
+  "song_mv_id": "565030085",
+  "song_mv_href": "http://music.taihe.com/mv/565030085",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-03",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040178482_128_4_1_0_sdk-cpm/cn/0206/M00/1C/08/ChR47FoBU-KAAle2AD5LwMbn14U700.mp3?xcode=691d66dcdb15dc606a6c06d238e568eb0f2b52f",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b1f98ad984e18662e13c93253f41089b/565031735/565031735.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/dc90438f92185c676b5674a60d2c1987/607943177/607943177.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/a3d2888f2d9b0cfb962f68bcd8d93a36/607943176/607943176.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/10adadfd6caa7f041c79e78fa7ea914f/607943174/607943174.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/d21f5848bbc9592acd6b240322da2e00/607943175/607943175.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "动物世界",
+  "song_id": "539843843",
+  "song_href": "http://music.taihe.com/song/539843843",
+  "song_mv_id": "539843843",
+  "song_mv_href": "http://music.taihe.com/mv/539843843",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "动物世界",
+  "song_publish_date": "2017-03-29",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038933357_128_4_1_0_sdk-cpm/cn/0207/M00/13/B8/ChR461n0DiCAQNjuADhIKGih_vg614.mp3?xcode=46fca1453b0c56986a6c17e5174edcb56c12ab6",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/ca1ea2fa0b33d5ace1c4761d9189aa41/672455201/672455201.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/83340f712d85f0f6de66bd5ff5ef717d/607960144/607960144.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/7e0f27f542f50e870daf052a3f1e85ba/607960143/607960143.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/1caa95f2f3838a59e2674cb020e3eced/607960141/607960141.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/8db82a5c4b147e8592af23657afad2eb/607960142/607960142.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "意外",
+  "song_id": "92447139",
+  "song_href": "http://music.taihe.com/song/92447139",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986647_128_4_1_0_sdk-cpm/cn/0208/M00/E5/61/ChR46119DqyAaGIaAEcrLfonm0g251.mp3?xcode=3f5484a84ca225146a6bd4704cea1f69ebf838f",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/9f61daa9035df8d7aa99a2537a3ed0fc/672463340/672463340.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "陪你去流浪",
+  "song_id": "662204353",
+  "song_href": "http://music.taihe.com/song/662204353",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775645_128_4_1_0_sdk-cpm/cn/0206/M00/DB/F9/ChR47F3uCLKAYaaeAEL_MdTFAks720.mp3?xcode=82c64aaa057bc4a66a6c27bf3a530e5ab30d2e5",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/1eee10f2ac1a924b9e1063d431786701/672936224/672936224.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "木偶人",
+  "song_id": "662233750",
+  "song_href": "http://music.taihe.com/song/662233750",
+  "song_mv_id": "662233750",
+  "song_mv_href": "http://music.taihe.com/mv/662233750",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "木偶人",
+  "song_publish_date": "2019-06-26",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775628_128_4_1_0_sdk-cpm/cn/0207/M00/7C/2C/ChR4610SADqAMi9MAEX_AWyawRw997.mp3?xcode=efcd509c68d89b456a6bc5d32bfd422f8002468",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/d3e7ee25a2b75fd76d4962149481c4c9/664462348/664462348.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/7bfa979e17c5bd87440192c10ac7dd85/662482229/662482229.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/e381ec0ce10ce1d0db17fe9abb60022b/662482228/662482228.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/d228f999933a5864b705f318edd1016e/662482226/662482226.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/7cdf250cfd4adcdc5bce1f3de40b3fb2/662482227/662482227.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "慢半拍",
+  "song_id": "663742556",
+  "song_href": "http://music.taihe.com/song/663742556",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "慢半拍",
+  "song_publish_date": "2019-07-17",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049780494_128_4_1_0_sdk-cpm/cn/0311/M00/09/9B/ChAKDF1s51-ASZG-ADsELdqPXnM886.mp3?xcode=44ff03f4f91e0c426a6c33dc6fead8b3d624492",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b2679c83dd3ab7394c9531f2cf2d2867/664462255/664462255.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "重返十七岁",
+  "song_id": "266990186",
+  "song_href": "http://music.taihe.com/song/266990186",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "重返十七岁",
+  "song_publish_date": "2016-06-26",
+  "song_publish_company": "爱奇艺科技",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10046078293_128_4_1_0_sdk-cpm/cn/0209/M00/65/55/ChR47FsZfyWAWyGYADwMEdiaz_g255.mp3?xcode=ec69812c868d8e456a6c049e30ee3773c609487",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/42fa336a428f14b63d92ad0dd93e4414/603388038/603388038.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "马戏小丑",
+  "song_id": "209595",
+  "song_href": "http://music.taihe.com/song/209595",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766129_128_4_1_0_sdk-cpm/cn/0209/M00/80/D5/ChR461z85ryAHCwBAEoGwdxPzSs545.mp3?xcode=c832f5fa82f0a8d16a6c33deb32311c29f2854b",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/2ebac26e98e490e35a5fb8dc901a987e/663720997/663720997.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "肆无忌惮",
+  "song_id": "591579114",
+  "song_href": "http://music.taihe.com/song/591579114",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10044523245_128_4_1_0_sdk-cpm/cn/0207/M00/8C/A3/ChR47F17PkaAMn28AD9590EMbx4103.mp3?xcode=fc36f20845a976346a6bcc2ef936941c7927910",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/017d934f6075a6fab6cb553f3b057f88/611681096/611681096.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "环",
+  "song_id": "662204355",
+  "song_href": "http://music.taihe.com/song/662204355",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775647_128_4_1_0_sdk-cpm/cn/0102/M00/CF/85/ChR45F4FzcOARwrdADvnrigWwSo444.mp3?xcode=33e5e017fc4540656a6c0c38740138146d81750",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/285dfc4921faa825bf43607896d7c04b/672936226/672936226.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "陪你去流浪",
+  "song_id": "672711371",
+  "song_href": "http://music.taihe.com/song/672711371",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "陪你去流浪",
+  "song_publish_date": "2019-12-09",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10052925340_128_4_1_0_sdk-cpm/cn/0208/M00/03/A2/ChR4613t99SAYfywAEL_MdTFAks951.mp3?xcode=b68a81b65f6f65b56a6c709976f8b0222be0e5d",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/1eee10f2ac1a924b9e1063d431786701/672711381/672711381.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "伏笔",
+  "song_id": "12529054",
+  "song_href": "http://music.taihe.com/song/12529054",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766601_128_4_1_0_sdk-cpm/cn/0207/M00/7B/91/ChR461z86OKAPWCaAEXx1ZxbyVU562.mp3?xcode=4559783bea5af81a6a6c2822eec1d16c397123b",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4cbdc3aea0e129c08e22c919c60f94e8/663720351/663720351.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "笑场",
+  "song_id": "664839291",
+  "song_href": "http://music.taihe.com/song/664839291",
+  "song_mv_id": "664839291",
+  "song_mv_href": "http://music.taihe.com/mv/664839291",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "笑场",
+  "song_publish_date": "2019-08-25",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049879821_128_4_1_0_sdk-cpm/cn/0311/M00/08/E2/ChAKDF1sgPKAAPjrAEKKILgozbw881.mp3?xcode=9d43ad22a6c162b46a6c1ff8b4b4fc402b9099d",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/a388f5af4934aac354d5b0e5d2263c75/664840194/664840194.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/10912be769acbba2b9c110e1c5308382/666398323/666398323.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/0018ee8249f6c7fa40826894319786cc/666398322/666398322.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/b073817c0b92e9b0a17beb55acbec800/666398320/666398320.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/5ef5c925e24ba9ae709fe4193aa1ccc2/666398321/666398321.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "天份",
+  "song_id": "610722309",
+  "song_href": "http://music.taihe.com/song/610722309",
+  "song_mv_id": "610722309",
+  "song_mv_href": "http://music.taihe.com/mv/610722309",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "天份",
+  "song_publish_date": "2018-12-21",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049554367_128_4_1_0_sdk-cpm/cn/0207/M00/8D/B7/ChR461186HeAMIubADyW47_d9II669.mp3?xcode=2884d18e720e58586a6ba0cba20ed8246d0b1a1",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/c9bf05efdbee0262331a301f97a721cc/612410409/612410409.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/e5d53db2c1e6ec32714b94729ec09255/612356125/612356125.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/740adaaaeadb9a818e0c1bfd47dcf1f3/612356124/612356124.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/78b5a4c33b959d6cea3e603b0b5ff382/612356122/612356122.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/3647c80e300eec0d755709cb28307c59/612356123/612356123.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "其实",
+  "song_id": "100575294",
+  "song_href": "http://music.taihe.com/song/100575294",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986653_128_4_1_0_sdk-cpm/cn/0208/M00/E5/61/ChR46119Dq6AUNNNADslZZdpZk8107.mp3?xcode=60d47e7cb0d9175f6a6c1e563bfaa2fcc726581",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/a1ce230ca68be4dc76aa49895b51c9cf/672463346/672463346.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "怪咖",
+  "song_id": "599300701",
+  "song_href": "http://music.taihe.com/song/599300701",
+  "song_mv_id": "599300701",
+  "song_mv_href": "http://music.taihe.com/mv/599300701",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10046246752_128_4_1_0_sdk-cpm/cn/0207/M00/54/A5/ChR461yYrzqAYB5wAD0tDHYq5jc330.mp3?xcode=bdf4b8698516feeb6a6c461119e802577d8ddb1",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/beb56915f6904b6bd4c7baf0279b52a0/611681095/611681095.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/438cde8fbe6f18c00404b89080b5f102/611661972/611661972.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/96ade325b2e2e4c733cd0c15e5bdaf57/611661971/611661971.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/c0eab339aa289e2cf2f1f8f10bb926c2/611661968/611661968.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/bb46a47fbb5ffa18840f00e46423b1f3/611661970/611661970.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "那是你离开了北京的生活",
+  "song_id": "594984095",
+  "song_href": "http://music.taihe.com/song/594984095",
+  "song_mv_id": "594984095",
+  "song_mv_href": "http://music.taihe.com/mv/594984095",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10046034749_128_4_1_0_sdk-cpm/cn/0206/M00/8B/C1/ChR47F16SaeACEnEAEGK8iaOIJM850.mp3?xcode=3ed51d04d3e909456a6bee03b8fd631593ab7c5",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/d55e4db1f88c33b5e1b804482759ced9/611681100/611681100.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/88d6de051a1e19670dead454d0264888/612205574/612205574.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/09a4b45ce2258551413d56293997cb6e/612205573/612205573.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/0a09e24df11d02c5d2478e5a0cca0ff0/612205571/612205571.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/1fd5f5aa05b5686e0586d2e463c1cd3a/612205572/612205572.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "病态",
+  "song_id": "667214259",
+  "song_href": "http://music.taihe.com/song/667214259",
+  "song_mv_id": "667214259",
+  "song_mv_href": "http://music.taihe.com/mv/667214259",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "病态",
+  "song_publish_date": "2019-09-13",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10051234041_128_4_1_0_sdk-cpm/cn/0206/M00/8F/68/ChR47F1_NsuAGFSNAERKnzoVPPk836.mp3?xcode=9557476696a4687d6a6becf6e15fb4a11d562f1",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/ece63b6ff0f448086a2362dce85dbafe/667214767/667214767.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/78417722523e597ed454e8f2b780963a/668286053/668286053.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/60cce1fc01197a192b5d190869133a60/668286052/668286052.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/7ad854b08e94967d6fed7cd32063c61f/668286050/668286050.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/7eb90acfd3f9ef8fe780e9866d012f73/668286051/668286051.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "配合",
+  "song_id": "672908427",
+  "song_href": "http://music.taihe.com/song/672908427",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "配合",
+  "song_publish_date": "2019-12-19",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10052962537_128_4_1_0_sdk-cpm/cn/0208/M00/01/D0/ChR47F352FyAV1EsADPw_QBI3vc861.mp3?xcode=c0360242ac1b39446a6bb8a5287e034b4b5e891",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/44ac26e4d71ca4b202ccdb284b43786d/672908780/672908780.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "钗头凤",
+  "song_id": "7352697",
+  "song_href": "http://music.taihe.com/song/7352697",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981987_128_4_1_0_sdk-cpm/cn/0208/M00/7E/3D/ChR461va6SOAMTwyAFEId2EpSzI102.mp3?xcode=e339c0f3700dae6e6a6c4e158547174c8b4b853",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b7df31e1f6a4766359b6656bae15998d/660147308/660147308.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "聊表心意",
+  "song_id": "662204356",
+  "song_href": "http://music.taihe.com/song/662204356",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775648_128_4_1_0_sdk-cpm/cn/0210/M00/CB/28/ChR4614FzcyAAqbFAE2Db4hVCdI030.mp3?xcode=f715893d99113c086a6c447c0212fc2152d33f5",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/39945b9c55ce9eae3fae545e441080c0/672936227/672936227.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "摩天大楼",
+  "song_id": "589759196",
+  "song_href": "http://music.taihe.com/song/589759196",
+  "song_mv_id": "589759196",
+  "song_mv_href": "http://music.taihe.com/mv/589759196",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "怪咖",
+  "song_publish_date": "2018-12-31",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10044298014_128_4_1_0_sdk-cpm/cn/0210/M00/AD/10/ChR461169eWASLdqADhJ9-grGPA016.mp3?xcode=552502bd10aa19596a6c10d5a955368fcea586e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/aff92cae9a298c3faf3968a576f83a74/589761380/589761380.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/767fb8028eea7065cb11e7355ccf4544/611263575/611263575.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/f4b57196ce1856e81b9ace5df24152f7/611263592/611263592.mp4"
+    },
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/7eba7dff0967cc97b113fbc9c1add7e8/611263593/611263593.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/37d3af211c355d491638601ae807cd47/611263587/611263587.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "下雨了",
+  "song_id": "265035807",
+  "song_href": "http://music.taihe.com/song/265035807",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "我是杜拉拉 O.S.T",
+  "song_publish_date": "2016-04-28",
+  "song_publish_company": "北京大象无形音乐有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038832152_128_4_1_0_sdk-cpm/cn/0311/M00/44/73/ChAKC11vqV6AWuYjAEqKn7K4Fps295.mp3?xcode=0b156305bab3cf786a6bcef9b0a75a52c8740c0",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/3f7f26454ca8481b085d31eb81f591c5/666270943/666270943.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "一半",
+  "song_id": "255982860",
+  "song_href": "http://music.taihe.com/song/255982860",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "一半",
+  "song_publish_date": "2015-10-19",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038912273_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR47F1_nqqAIn4UAEXXLAsxAwM748.mp3?xcode=d8faee5b2e3090856a6bc1ecd38f0f50df94f4e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/48935a16f93ba0e49a3f26d3cac29cb2/603498959/603498959.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "背过手",
+  "song_id": "566878465",
+  "song_href": "http://music.taihe.com/song/566878465",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396705_128_4_1_0_sdk-cpm/cn/0207/M00/84/69/ChR461141oSAYjq6AEED81TTXvY622.mp3?xcode=3caf6068be72c83f6a6c2b19a67dff79f361c60",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/6ce9fb402254c7173f495bec7f855fbb/666595419/666595419.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "这么久没见",
+  "song_id": "664162412",
+  "song_href": "http://music.taihe.com/song/664162412",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "这么久没见",
+  "song_publish_date": "2019-08-06",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049784605_128_4_1_0_sdk-cpm/cn/0209/M00/B5/54/ChR47F1JHneAW30EAEglPOl501Y586.mp3?xcode=73f704802290ff216a6c264dd907e26527c4971",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/50467da78718591468e52218ea4b63df/664163386/664163386.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "木偶人",
+  "song_id": "662204347",
+  "song_href": "http://music.taihe.com/song/662204347",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775639_128_4_1_0_sdk-cpm/cn/0208/M00/DE/6E/ChR4611g7f-AVt0HAEX_AWyawRw119.mp3?xcode=b4cd6a5edcccf0d06a6c30a199250413984e421",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/e8d3f982b0bd4a133f248c8a122aacff/662223812/662223812.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "别",
+  "song_id": "564102115",
+  "song_href": "http://music.taihe.com/song/564102115",
+  "song_mv_id": "564102115",
+  "song_mv_href": "http://music.taihe.com/mv/564102115",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-10-31",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10039005788_128_4_1_0_sdk-cpm/cn/0311/M00/2B/07/ChAKC113jwaAdtbTADSrExcKMrw369.mp3?xcode=65fbcc7f6184b4ba6a6c7f731dd323691585872",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4ca11ed349ed0c1e6488ad1bd664812b/565001257/565001257.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/d4e0b6ba2bcd18538329842b5fe547f6/608002818/608002818.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/46cd760d29a616c543f9ff82bef33375/608002817/608002817.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/af7bc9b1073e625e4c356b2f05188158/608002815/608002815.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/55fb647b88b2de95b2a796026e1723a9/608002816/608002816.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "高尚",
+  "song_id": "538777113",
+  "song_href": "http://music.taihe.com/song/538777113",
+  "song_mv_id": "538777113",
+  "song_mv_href": "http://music.taihe.com/mv/538777113",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-03-17",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038919187_128_4_1_0_sdk-cpm/cn/0210/M00/11/2E/ChR461nzitGAH7VqAE3LGQeQ0tI312.mp3?xcode=6d7e250ae1e325f36a6bfd87bf51cb4823b037a",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/qq_lyric/299be92b563ffe8fa31cf6f25d80c4d2.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/6c183b2a97d9e6474c41929cc2b28f99/607954973/607954973.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/b1c89d7818eb3e7618d7563fb500f344/607954972/607954972.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/88aab69b7f14734fa8f9b0de54d55cfe/607954970/607954970.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/8df71604fd9a3c60ccaf0cc23a1ec469/607954971/607954971.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "笑场",
+  "song_id": "662204350",
+  "song_href": "http://music.taihe.com/song/662204350",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775642_128_4_1_0_sdk-cpm/cn/0208/M00/DE/6E/ChR4611g7h2AZMNSAEKKILgozbw994.mp3?xcode=7ac091d9efe114316a6be182d9cc2e2b977ab87",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/5afe777d34cf976024f0a285947e245d/672936221/672936221.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "慢半拍",
+  "song_id": "662204348",
+  "song_href": "http://music.taihe.com/song/662204348",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775640_128_4_1_0_sdk-cpm/cn/0208/M00/DB/78/ChR47F1g7f2AXlKVADsELdqPXnM351.mp3?xcode=c8975227153dbd316a6c6ea394f95dc98cdc1b0",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f51d90b98a98aba108831ccdcaed1882/672936219/672936219.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "这么久没见",
+  "song_id": "662204349",
+  "song_href": "http://music.taihe.com/song/662204349",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775641_128_4_1_0_sdk-cpm/cn/0208/M00/DE/6E/ChR4611g7hiAdAk8AEglPOl501Y508.mp3?xcode=6d58f68cc3cc112e6a6bebe190093099fe5fb30",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/873d37d5491679eaea6260cebd8c3e9b/672936220/672936220.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "骆驼",
+  "song_id": "566310948",
+  "song_href": "http://music.taihe.com/song/566310948",
+  "song_mv_id": "566310948",
+  "song_mv_href": "http://music.taihe.com/mv/566310948",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-16",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040194805_128_4_1_0_sdk-cpm/cn/0208/M00/1F/74/ChR461oK0GeAZss0AEOaHrGVURQ822.mp3?xcode=f85f4482399cd7d76a6c3badecc437f77946d0a",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/ff3a10af94f191dfd5b6989448371e19/566311276/566311276.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/aba1caed52a870860caa7395c3adfeff/608005306/608005306.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/b201eec078c858e539ca88a69c9bcad5/608005305/608005305.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/6d1f30324278c382295e85c3bb35238c/608005303/608005303.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/9f263159213f2343f011660fe5c54521/608005304/608005304.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "尘",
+  "song_id": "662204352",
+  "song_href": "http://music.taihe.com/song/662204352",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775644_128_4_1_0_sdk-cpm/cn/0209/M00/D2/C0/ChR47F2gAp6Abl26AETDbyjcp2A758.mp3?xcode=c5cc5cc36f666dca6a6be5adbb15272f7a1064d",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b11da2d73f32acc10be7313854dc0795/672936223/672936223.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "渡",
+  "song_id": "566055824",
+  "song_href": "http://music.taihe.com/song/566055824",
+  "song_mv_id": "566055824",
+  "song_mv_href": "http://music.taihe.com/mv/566055824",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-10",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040194709_128_4_1_0_sdk-cpm/cn/0207/M00/1E/50/ChR461oD0SyAKQzWADQXgUB2ezM279.mp3?xcode=d62ee7b8d3541b176a6c09665eeed8657518d86",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/9643170e9345673054dfa042cc482344/598060070/598060070.lrc",
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/8ff4e18b10d4d8874c86ffd3f1ddc887/608008113/608008113.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/abd3579bfcf3134aa151388ef9391740/608008112/608008112.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/e7c3e6ff2cc668934c8e4ac77938cad3/608008110/608008110.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/625cb423064cd96452d28db00d32ce66/608008111/608008111.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "有没有",
+  "song_id": "100575185",
+  "song_href": "http://music.taihe.com/song/100575185",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986649_128_4_1_0_sdk-cpm/cn/0105/M00/C7/A4/ChR45V2qeZaAHwWaAD1yyA1pqlc068.mp3?xcode=1c9e93a7578603966a6bc8f4f8decc00e53d6b9",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/42feeca6dfbbd211163887dc3ae332ba/672463342/672463342.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "小孩",
+  "song_id": "267709056",
+  "song_href": "http://music.taihe.com/song/267709056",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589083_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nr2APcafAE57merNP8w896.mp3?xcode=ab6fb7a590f0b1346a6c3ef60b8c8e6235b108c",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4d869384306d5fca84266010e616eaf0/672457405/672457405.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "病态",
+  "song_id": "662204351",
+  "song_href": "http://music.taihe.com/song/662204351",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775643_128_4_1_0_sdk-cpm/cn/0311/M00/6A/91/ChAKC115-0OAaVVKAERKnzoVPPk701.mp3?xcode=c6abb0c8cbf694206a6c6b7d55bee2e899fdbf8",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/49ee68ab36a5850c1fce8eac387b3e12/672936222/672936222.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "配合",
+  "song_id": "662204354",
+  "song_href": "http://music.taihe.com/song/662204354",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "尘",
+  "song_publish_date": "2019-12-27",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049775646_128_4_1_0_sdk-cpm/cn/0210/M00/CA/6B/ChR46137ONmALfznADPw_QBI3vc260.mp3?xcode=0b8bfc91ce1d2ab36a6c4c5808d9366c4e28ef5",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f7aaeeac060b96bb1a64a3ef266e2257/672936225/672936225.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "一半",
+  "song_id": "267709049",
+  "song_href": "http://music.taihe.com/song/267709049",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "初学者",
+  "song_publish_date": "2016-07-18",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040589082_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR47F1_nqqAIn4UAEXXLAsxAwM748.mp3?xcode=00b7b6f11cc607526a6c514f833eca6c6a5d597",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4af5a75c47239204b8eb22a5ea78c1a1/672457404/672457404.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "为了遇见你",
+  "song_id": "20719449",
+  "song_href": "http://music.taihe.com/song/20719449",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766607_128_4_1_0_sdk-cpm/cn/0209/M00/80/D6/ChR461z86QOADjPgADq4ZkSV0wE106.mp3?xcode=24f9aad78b5c8b446a6c19540783160af343904",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4b6b81e28f5f5219eee3aa3d5bcd4f26/663720380/663720380.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我想起你了",
+  "song_id": "100575276",
+  "song_href": "http://music.taihe.com/song/100575276",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986652_128_4_1_0_sdk-cpm/cn/0208/M00/E2/6B/ChR47F19DqiAYgfXADhJ9-osnqo712.mp3?xcode=3d2603e2cd9b87be6a6bd4f8623c9d071cf7e99",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/d4b22ca62af0fc1a1c16b37d2e055f37/672463345/672463345.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "刚刚好",
+  "song_id": "537791155",
+  "song_href": "http://music.taihe.com/song/537791155",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "我与你的光年距离 O.S.T原声大碟",
+  "song_publish_date": "2017-03-08",
+  "song_publish_company": "海蝶（天津）文化传播有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038890322_128_4_1_0_sdk-cpm/cn/0311/M00/42/E9/ChAKC11vl7WAUY53AD0rb46MjmI173.mp3?xcode=5bfc49b4837ae57d6a6bf7f1166cf9793452780",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/c5fddb03af83fabb762a91d73ab6b318/614321934/614321934.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "等我回家",
+  "song_id": "100575264",
+  "song_href": "http://music.taihe.com/song/100575264",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986651_128_4_1_0_sdk-cpm/cn/0208/M00/E2/6B/ChR47F19DrGAQcwZAEjDHE31hAA194.mp3?xcode=6338d4448a33e9866a6bdb1a110b604ba018bbc",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/3c12fb22099fd9fdcbe6b02a8cf4c95e/672463344/672463344.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "几个你",
+  "song_id": "14921266",
+  "song_href": "http://music.taihe.com/song/14921266",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766600_128_4_1_0_sdk-cpm/cn/0207/M00/7B/90/ChR47Fz86OOAHUN8AE1a_U1AtS8215.mp3?xcode=0d95af0e81b1cbaa6a6c77f525f5fedb39fe08c",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b1ce1473184e2e8d0c7246a55b59d30f/663720345/663720345.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我害怕",
+  "song_id": "540560826",
+  "song_href": "http://music.taihe.com/song/540560826",
+  "song_mv_id": "540560826",
+  "song_mv_href": "http://music.taihe.com/mv/540560826",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-04-25",
+  "song_publish_company": "海蝶音乐",
+  "download_url": null,
+  "song_lrc_link": null,
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/51d136aa32bf6f2e556ac9d53de22fbd/607978141/607978141.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/3517b835fbd5d2b0fca79a7dd6ccf282/607978140/607978140.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/8a14858c8b8ea1fd6e0322bbd9b2753a/607978138/607978138.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/1ecff017c0b78001853bae41a8f55f03/607978139/607978139.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "我知道你都知道",
+  "song_id": "15368282",
+  "song_href": "http://music.taihe.com/song/15368282",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766599_128_4_1_0_sdk-cpm/cn/0207/M00/7B/91/ChR461z86N-AOgdCAEMBPfdQ94Q430.mp3?xcode=a7643ea692ee69da6a6bd98938a9ebf1a9ea0df",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/6a273f02c60f2ae2c16b96879c664453/663720340/663720340.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "Memory",
+  "song_id": "7353885",
+  "song_href": "http://music.taihe.com/song/7353885",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981985_128_4_1_0_sdk-cpm/cn/0208/M00/7E/3D/ChR461va6SeAZnd4AFE2K9PD9rE756.mp3?xcode=2e3754f685af76436a6c47bc645ad61e11c831e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/c9da215abf6264d18d2c15d9728866e6/660147309/660147309.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我们爱过就好",
+  "song_id": "10542288",
+  "song_href": "http://music.taihe.com/song/10542288",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766605_128_4_1_0_sdk-cpm/cn/0207/M00/7B/90/ChR47Fz86O2AJAOOAD_zNmq84Bs807.mp3?xcode=ca847b37d42038586a6c31f283d3948fd7fa1fa",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/cb2fd7c8b8a04a114d30b15870faf85a/663720372/663720372.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我害怕",
+  "song_id": "666594526",
+  "song_href": "http://music.taihe.com/song/666594526",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396707_128_4_1_0_sdk-cpm/cn/0207/M00/84/68/ChR47F141oGAV2ZbADy_roR98oQ303.mp3?xcode=eaf84fb1142e3fef6a6bf12b28234e4126cdb9c",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/52aa6ba51f26b991a3d5750f88f1fe99/666595421/666595421.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "丑八怪+演员",
+  "song_id": "524442825",
+  "song_href": "http://music.taihe.com/song/524442825",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "2017安徽卫视春晚歌曲节目合辑",
+  "song_publish_date": "2017-01-25",
+  "song_publish_company": "安徽卫视",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10046213324_128_4_1_0_sdk-cpm/cn/0207/M00/66/18/ChR461srksSAQX5BAHQ3fGrf14o807.mp3?xcode=214b3ccedb974d066a6c4e4f640ca6b31acc942",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f9ebd59ea5a51f6281b47d47c79ebf6c/524481770/524481770.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "你过得好吗",
+  "song_id": "249963",
+  "song_href": "http://music.taihe.com/song/249963",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766125_128_4_1_0_sdk-cpm/cn/0209/M00/80/D5/ChR461z85qqAU4BFAEWyMv46VHw031.mp3?xcode=3586b35a04cc56fa6a6c45da93373010b4b84f6",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f651726927854889c49200ad2e65e022/663720962/663720962.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "方圆几里 (吉他版)",
+  "song_id": "33374099",
+  "song_href": "http://music.taihe.com/song/33374099",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986655_128_4_1_0_sdk-cpm/cn/0209/M00/BF/91/ChR46119DqqAFXEvAEEfC1HAb6U673.mp3?xcode=f24d62420aec18b06a6c8ca2f77f8f527fd89e5",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b2f709146802886a1658171e5bf44a99/672463348/672463348.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "快乐帮",
+  "song_id": "7351628",
+  "song_href": "http://music.taihe.com/song/7351628",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981990_128_4_1_0_sdk-cpm/cn/0208/M00/7E/3D/ChR461va6ReAGq4VAEPH0D7R-Kk145.mp3?xcode=900a7e9f8fca5e066a6c38b488f05d76d2d5406",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/e346e5d55e4e766252129c9c456dadca/660147306/660147306.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "续雪",
+  "song_id": "1429061",
+  "song_href": "http://music.taihe.com/song/1429061",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766132_128_4_1_0_sdk-cpm/cn/0207/M00/7B/8F/ChR47Fz85sCAUn_yAEP_3wRoZi0901.mp3?xcode=547debed4c2a582e6a6c28c6bdf19b41ce6fb57",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/e4cd4d316932ad48c74ed53c01e786bf/663721032/663721032.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "爱的期限",
+  "song_id": "229383",
+  "song_href": "http://music.taihe.com/song/229383",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766128_128_4_1_0_sdk-cpm/cn/0209/M00/80/D3/ChR47Fz85qeACmoMAEGOl55vk1U751.mp3?xcode=2591bca1bff7ab0f6a6c4a4fd2440f7af9caf35",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/8d9ce0db8d0f9b583fa013939e2cc52b/663720988/663720988.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "潮流季",
+  "song_id": "100575227",
+  "song_href": "http://music.taihe.com/song/100575227",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "意外",
+  "song_publish_date": "2013-11-11",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038986650_128_4_1_0_sdk-cpm/cn/0208/M00/E2/6B/ChR47F19DqSANWXWADqiyPbyuN8516.mp3?xcode=2486cb03e46328e26a6c742632a3d4f895301d2",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/653755d1d8780f694dc699a51831f73b/672463343/672463343.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "黄色枫叶",
+  "song_id": "7349737",
+  "song_href": "http://music.taihe.com/song/7349737",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981989_128_4_1_0_sdk-cpm/cn/0208/M00/7B/45/ChR47Fva6ReAfgaMAEZgUAlNW9k059.mp3?xcode=19a83dcc7eb756cf6a6bd7a58624bf75138a12a",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/227aef62bf7fb346b437ce709ea880ae/660147307/660147307.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "苏黎世的从前",
+  "song_id": "235211",
+  "song_href": "http://music.taihe.com/song/235211",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766124_128_4_1_0_sdk-cpm/cn/0209/M00/80/D5/ChR461z85qCAbV9WAEeLrTmjxTQ746.mp3?xcode=4216400fc40a3b886a6c856d3148ea7d4470d7e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/b93f8f9467b796ea2d6682e0f0ce787d/663720952/663720952.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "小孩",
+  "song_id": "256003106",
+  "song_href": "http://music.taihe.com/song/256003106",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "一半",
+  "song_publish_date": "2015-10-19",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038912274_128_4_1_0_sdk-cpm/cn/0311/M00/6D/F5/ChAKC117wOuAeUXOAE57merNP8w984.mp3?xcode=e6db6b38abee096e6a6c05c3d457418ab1e2f54",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/0e8efa00fa5bc28de8a2088776b087f2/277267102/277267102.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "朋友你们还好吗",
+  "song_id": "7333759",
+  "song_href": "http://music.taihe.com/song/7333759",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766127_128_4_1_0_sdk-cpm/cn/0209/M00/80/D5/ChR461z85q-AETX-AEVeBLi6mEQ444.mp3?xcode=b8f50c758322c2986a6c6455ff2e76993eb925e",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/27d0cba59390c7ae83c6817ade24298e/663720986/663720986.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "王子归来",
+  "song_id": "7353524",
+  "song_href": "http://music.taihe.com/song/7353524",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981992_128_4_1_0_sdk-cpm/cn/0208/M00/7E/3D/ChR461va6SGAGM5pAE8YJh-qhMs753.mp3?xcode=79ff7d03a80e40006a6c5f8a6d0a673c2bc8365",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/48d719ed35c41926a87969d22b224494/660147295/660147295.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "倾城",
+  "song_id": "241166",
+  "song_href": "http://music.taihe.com/song/241166",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766130_128_4_1_0_sdk-cpm/cn/0209/M00/80/D3/ChR47Fz85qmAMCZMADkzysxW_Bg287.mp3?xcode=2e9d1df62029b1016a6c41ee9006718837a0a5a",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/1520d1f2da848c4d6414f1bcdeaea2b7/663721008/663721008.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "小孩",
+  "song_id": "251629938",
+  "song_href": "http://music.taihe.com/song/251629938",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "小孩",
+  "song_publish_date": "2015-10-09",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038827418_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nr2APcafAE57merNP8w896.mp3?xcode=462b80123d6c8efb6a6c828393c392d4be6ede7",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/251792362/251792362.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我终于成了别人的女人",
+  "song_id": "5963603",
+  "song_href": "http://music.taihe.com/song/5963603",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766603_128_4_1_0_sdk-cpm/cn/0207/M00/7B/90/ChR47Fz86PaAenewAEq9rhC2Uqo488.mp3?xcode=e5696a34e272a9f76a6c0987e3f52ca94a0cca9",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/d534d7f5b0c9f1acead90b157ceab8f9/663720362/663720362.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "敷衍",
+  "song_id": "20719435",
+  "song_href": "http://music.taihe.com/song/20719435",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766604_128_4_1_0_sdk-cpm/cn/0207/M00/7B/91/ChR461z86OeAeOz0ADzoXfrEmyY390.mp3?xcode=740fd0b9129ef5326a6c6ef978fa019a113bc2b",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/6ef140bd1ecb31845cfebca8ab9b44e6/663720366/663720366.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "像风一样",
+  "song_id": "666594520",
+  "song_href": "http://music.taihe.com/song/666594520",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396700_128_4_1_0_sdk-cpm/cn/0207/M00/84/67/ChR47F141nmAbNqCAD5McCzab8g826.mp3?xcode=dc621241121794406a6beb3506e1215e03f135f",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/16dfb946db163a0b63870267c4f1a9ba/666595409/666595409.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "红尘女子",
+  "song_id": "7355385",
+  "song_href": "http://music.taihe.com/song/7355385",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981988_128_4_1_0_sdk-cpm/cn/0208/M00/7B/45/ChR47Fva6SWAeKhOAE4RS31LZOs556.mp3?xcode=c9c4725645b38ef86a6c7b0ff9d7c29a18d0d3d",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4e7136e30fe104fa02b0d8f48c6e0c75/660147304/660147304.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "爱情宣判",
+  "song_id": "1308240",
+  "song_href": "http://music.taihe.com/song/1308240",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766126_128_4_1_0_sdk-cpm/cn/0207/M00/7B/90/ChR461z85p2ADHt-AEMBNHhkrIE794.mp3?xcode=4332c33efe740fa06a6c7e7b10fe5ed348cf8ab",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/f70a0b873e72d7ca018a34750af4d6c4/663720975/663720975.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我的Show",
+  "song_id": "7354708",
+  "song_href": "http://music.taihe.com/song/7354708",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981994_128_4_1_0_sdk-cpm/cn/0208/M00/7E/3D/ChR461va6RSAbVfAADxvAB6J1Rw083.mp3?xcode=8ed2668ced9edd736a6c787277f5cf9482b49cd",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/334745715f05bf81d0a1b2f1eac4930c/660147310/660147310.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "火星人来过",
+  "song_id": "666594523",
+  "song_href": "http://music.taihe.com/song/666594523",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396704_128_4_1_0_sdk-cpm/cn/0207/M00/84/66/ChR47F141m-AVRiWADT7G_s0X50421.mp3?xcode=799ab763d78c5b3a6a6bf0b41df7fa2bd2e6d12",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/cc683d1faff1530f5ccf64f593842210/666595418/666595418.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "丢手绢",
+  "song_id": "1343660",
+  "song_href": "http://music.taihe.com/song/1343660",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766131_128_4_1_0_sdk-cpm/cn/0209/M00/80/D3/ChR47Fz85q-Adjm4AEBe6FzQSeE201.mp3?xcode=203bf6bd30c156f06a6c7d95e469e08ca4f9adb",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/18bffa8a56c74236e2ed39291c600069/663721023/663721023.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "楚河汉界",
+  "song_id": "20719441",
+  "song_href": "http://music.taihe.com/song/20719441",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766606_128_4_1_0_sdk-cpm/cn/0209/M00/80/C7/ChR461z83B2Aeq7JAD791Ju-Si4325.mp3?xcode=de48eb7de6673c1f6a6c69864417725f626c04c",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4064910e7dc76f6da8d4a974c9e55d0f/663720374/663720374.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "Stay Here",
+  "song_id": "256003192",
+  "song_href": "http://music.taihe.com/song/256003192",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "一半",
+  "song_publish_date": "2015-10-19",
+  "song_publish_company": "海蝶音乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10038912275_128_4_1_0_sdk-cpm/cn/0206/M00/90/77/ChR4611_nsqANXqtAEmaLKq3eJ4614.mp3?xcode=d18a34bc3da9bd176a6c656b6925f707cc37523",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/256004016/256004016.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "动物世界",
+  "song_id": "666594518",
+  "song_href": "http://music.taihe.com/song/666594518",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396689_128_4_1_0_sdk-cpm/cn/0207/M00/84/67/ChR47F141nGABaueADhI2dNeagQ873.mp3?xcode=6ab300e3f8dfd8f06a6c11df1ab3fc908695192",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/20b5e72e7d6416f613fd40baec7e0194/666595407/666595407.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "你过得好吗",
+  "song_id": "7333433",
+  "song_href": "http://music.taihe.com/song/7333433",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "你过得好吗",
+  "song_publish_date": "2014-01-30",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766133_128_4_1_0_sdk-cpm/cn/0209/M00/80/D3/ChR47Fz85ryATp5uAEYrA_Jo_LE487.mp3?xcode=ea71ae06b31c26d86a6c6e17ee464fcf208d102",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/4ecf2bc2ecca630b4dac32ad0122431d/663721040/663721040.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "为什么",
+  "song_id": "14377419",
+  "song_href": "http://music.taihe.com/song/14377419",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "几个薛之谦",
+  "song_publish_date": "2012-08-15",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10049766602_128_4_1_0_sdk-cpm/cn/0209/M00/80/C5/ChR47Fz83B2AOcvEAD7Rverd_rU497.mp3?xcode=69d98ec1bc2aac646a6c7133d9e77392c411b3c",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/0acad5b7e8dd7de435ccc2d26bb21bb6/663720352/663720352.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "爱不走",
+  "song_id": "7352214",
+  "song_href": "http://music.taihe.com/song/7352214",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "薛之谦",
+  "song_publish_date": "2006-06-09",
+  "song_publish_company": "上腾娱乐",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10047981986_128_4_1_0_sdk-cpm/cn/0208/M00/7B/45/ChR47Fva6R-AG065AEmSQ71giz4170.mp3?xcode=a2455f1a7e0e06ba6a6c9096389dfe3f0fa325a",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/48984dbe537a8e4b4bb70a6f82a795ee/660147305/660147305.lrc",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "暧昧",
+  "song_id": "666594519",
+  "song_href": "http://music.taihe.com/song/666594519",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396699_128_4_1_0_sdk-cpm/cn/0207/M00/84/69/ChR461141n2ABIaYAEw9a1-6xdY453.mp3?xcode=fc5d15eee57fe0686a6bea62965adb75dc7e0bc",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/417addcf21b47e214613de0fe673e005/666595408/666595408.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "渡",
+  "song_id": "666594525",
+  "song_href": "http://music.taihe.com/song/666594525",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396706_128_4_1_0_sdk-cpm/cn/0207/M00/84/69/ChR461141oCAEKbaADQYMnzn_Xk191.mp3?xcode=77a809731c0620e66a6c02c58ae6081f18cbf8a",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/2fa1ed561b16c6b7887f6da22f9b1a1e/666595420/666595420.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "骆驼",
+  "song_id": "666594522",
+  "song_href": "http://music.taihe.com/song/666594522",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "渡 The Crossing",
+  "song_publish_date": "2017-11-28",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10040396702_128_4_1_0_sdk-cpm/cn/0207/M00/84/68/ChR47F141n-AA633AEOazyyc8UY403.mp3?xcode=1105a3bcbddd8c3a6a6c0e272af94f2a2cdbd6f",
+  "song_lrc_link": "http://qukufile2.qianqian.com/data2/lrc/15272ce995a00334e360ad0da477543c/666595416/666595416.txt",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
+{
+  "song_name": "我害怕",
+  "song_id": "551001099",
+  "song_href": "http://music.taihe.com/song/551001099",
+  "song_mv_id": "551001099",
+  "song_mv_href": "http://music.taihe.com/mv/551001099",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "我害怕",
+  "song_publish_date": "2017-08-04",
+  "song_publish_company": "海蝶音乐",
+  "download_url": null,
+  "song_lrc_link": null,
+  "mv_download_url_info": [
+    {
+      "definition_name": "流畅",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/51d136aa32bf6f2e556ac9d53de22fbd/607978141/607978141.mp4"
+    },
+    {
+      "definition_name": "标清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/3517b835fbd5d2b0fca79a7dd6ccf282/607978140/607978140.mp4"
+    },
+    {
+      "definition_name": "超清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/8a14858c8b8ea1fd6e0322bbd9b2753a/607978138/607978138.mp4"
+    },
+    {
+      "definition_name": "高清",
+      "file_link": "http://qukufile2.qianqian.com/data2/video/1ecff017c0b78001853bae41a8f55f03/607978139/607978139.mp4"
+    }
+  ]
+}
+********************
+{
+  "song_name": "纸船（电视剧《天醒之路》片尾曲）",
+  "song_id": "676288481",
+  "song_href": "http://music.taihe.com/song/676288481",
+  "author_name": "薛之谦",
+  "author_tinguid": "2517",
+  "author_url": "http://music.taihe.com/artist/2517",
+  "song_album": "纸船（电视剧《天醒之路》片尾曲）",
+  "song_publish_date": "2020-04-22",
+  "song_publish_company": "华宇世博音乐文化（北京）有限公司",
+  "download_url": "http://audio04.dmhmusic.com/71_53_T10054219914_128_4_1_0_sdk-cpm/cn/0101/M00/EE/D9/ChR45F6esxqALrgmADyGDIABOD4297.mp3?xcode=ef1992ae7a99321f6a6bfb949153528ce496288",
+  "song_lrc_link": "",
+  "mv_download_url_info": {},
+  "song_mv_id": null
+}
+********************
